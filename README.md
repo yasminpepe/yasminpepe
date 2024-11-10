@@ -1,7 +1,6 @@
 <h2 align="left">Olá! Sejam bem vindos ao meu GitHub!</h2>
 
-<h2 align="center "> Me chamo Yasmin Pellicer, tenho 18 anos e sou natural de SP - Santana de parnaiba. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia.</h2>
-
+<h2 align="left">Me chamo Yasmin Pellicer, tenho 18 anos e sou natural de SP-Santana de Parnaiba, Estou cursando 2°semestre de Análise Desenvolvimento de Sistemas , E sou apaixonada por tecnologia. ✨</h2>
 
 ###
 
@@ -13,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
